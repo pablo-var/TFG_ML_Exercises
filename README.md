@@ -1,5 +1,4 @@
 ![alt text](https://github.com/PabloVargasIbarra/TFG_ML_Exercises/blob/master/data/gitimage.png)
-- **Trabajo de fin de grado** 
 - **Implementación regresión lineal** (RegLineal.ipynb)
 - **Introdución geométrica regresión logística** (IntroRegLog.ipynb)
 - **Implementación regresión logística regularizada** (RegLogistica.ipynb)
